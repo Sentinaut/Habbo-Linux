@@ -98,7 +98,7 @@ WINEPREFIX=~/.local/share/habbo-launcher/prefix wineserver -k
 If something isn't working, there are two ways to get in touch:
 
 - **GitHub:** [open an issue](https://github.com/Sentinaut/Habbo-Linux/issues). You'll need a free GitHub account.
-- **Discord:** message **Sentinaut**.
+- **Discord:** message [**Sentinaut**](https://discord.com/users/1536053675808792680).
 
 It helps a lot if you include:
 
