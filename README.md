@@ -91,7 +91,21 @@ It should say `habbo-launcher.desktop`. If it doesn't, re-run the installer. If 
 WINEPREFIX=~/.local/share/habbo-launcher/prefix wineserver -k
 ```
 
-**Anything else.** Check `~/.cache/habbo-launcher.log`.
+**Anything else.** Check `~/.cache/habbo-launcher.log`, or ask for help (see below).
+
+## Getting help
+
+If something isn't working, there are two ways to get in touch:
+
+- **GitHub:** [open an issue](https://github.com/Sentinaut/Habbo-Linux/issues). You'll need a free GitHub account.
+- **Discord:** message **Sentinaut**.
+
+It helps a lot if you include:
+
+- your distro and version, e.g. Kubuntu 26.04
+- the output of `wine --version`
+- what you did and what happened, with screenshots of any error windows
+- the launcher log: `cat ~/.cache/habbo-launcher.log`
 
 ## Uninstall
 
