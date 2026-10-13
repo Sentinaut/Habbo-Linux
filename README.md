@@ -22,12 +22,17 @@ Getting a recent Wine:
 
 ## Install
 
+Open a terminal and run:
+
 ```bash
+curl -fsSLO https://raw.githubusercontent.com/Sentinaut/Habbo-Linux/main/install-habbo.sh
 chmod +x install-habbo.sh
 ./install-habbo.sh
 ```
 
-Run it as your normal user, not with `sudo`. When it finishes, open **Habbo Launcher** from your app menu.
+Run it as your normal user, not with `sudo`. When it finishes, open **Habbo Launcher** from your app menu, or click **Launch and log in** on habbo.com.
+
+To update or repair an existing install later, run the same three commands again.
 
 If the automatic download fails, log in at habbo.com, choose **Download for Windows**, and point the script at the file:
 
